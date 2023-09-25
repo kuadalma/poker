@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Poker_dobierany
+﻿namespace Poker_dobierany
 {
     internal class Talia
     {
-        private List<string> kolory = new List<string> { "trefl", "pik", "karo", "kier" };
+        private List<string> kolory = new List<string> { "♠", "♥", "♦", "♣" };
         public List<Karta> karty;
         public Talia()
         {
