@@ -1,0 +1,14 @@
+C:\Users\adamm\source\repos\poker_dobierany\bin\Debug\net7.0\poker_dobierany.exe
+C:\Users\adamm\source\repos\poker_dobierany\bin\Debug\net7.0\poker_dobierany.deps.json
+C:\Users\adamm\source\repos\poker_dobierany\bin\Debug\net7.0\poker_dobierany.runtimeconfig.json
+C:\Users\adamm\source\repos\poker_dobierany\bin\Debug\net7.0\poker_dobierany.dll
+C:\Users\adamm\source\repos\poker_dobierany\bin\Debug\net7.0\poker_dobierany.pdb
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.AssemblyInfoInputs.cache
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.AssemblyInfo.cs
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.csproj.CoreCompileInputs.cache
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.dll
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\refint\poker_dobierany.dll
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.pdb
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\poker_dobierany.genruntimeconfig.cache
+C:\Users\adamm\source\repos\poker_dobierany\obj\Debug\net7.0\ref\poker_dobierany.dll
