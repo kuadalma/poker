@@ -2,7 +2,7 @@
 {
     internal class Talia
     {
-        private List<string> kolory = new List<string> { "♠", "♥", "♦", "♣" };
+        private List<string> kolory = new List<string> { "p", "s", "k", "t" };
         private List<Karta> karty;
         public Talia()
         {
@@ -26,6 +26,15 @@
                 karty.RemoveAt(index);
             }
             return rozdaj;
+        }
+        public override string ToString()
+        {
+            string res = "|";
+            for (int i = 0; i < karty.Count(); i++)
+            {
+                res+= karty[i].ToString() + "|";
+            }
+            return res;
         }
     }
 }
