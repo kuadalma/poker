@@ -1,4 +1,6 @@
-using System;
+﻿using System;
+using System.Collections.Generic;
+
 namespace Poker_dobierany
 {
     internal class Reka
@@ -18,11 +20,6 @@ namespace Poker_dobierany
         {
             List<Karta> karty = this.karty;
             this.karty = karty.OrderBy(o => o.numer).ToList();
-        }
-        public int getPoint()
-        {
-
-            return -1;
         }
         public int wymien(int gracz)
         {
@@ -56,7 +53,7 @@ namespace Poker_dobierany
                     Console.Clear();
                     Console.WriteLine("bledna liczba");
                 }
-                karty.RemoveAt(liczba-1);    
+                karty.RemoveAt(liczba - 1);
                 Console.Clear();
             }
             return ile;
@@ -69,6 +66,10 @@ namespace Poker_dobierany
                 res += karty[i].ToString() + "|";
             }
             return res;
+        }
+        public int getPoint()
+        {
+            return -1;
         }
     }
 }

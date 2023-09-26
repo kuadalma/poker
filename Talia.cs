@@ -3,7 +3,7 @@
     internal class Talia
     {
         private List<string> kolory = new List<string> { "♠", "♥", "♦", "♣" };
-        public List<Karta> karty;
+        private List<Karta> karty;
         public Talia()
         {
             karty = new List<Karta>();
